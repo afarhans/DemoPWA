@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Kristen","category":"Patrie"},
+{"id":2,"name":"Kendre","category":"Hammel"},
+{"id":3,"name":"Jacintha","category":"Sinnock"},
+{"id":4,"name":"Vaclav","category":"Lammers"},
+{"id":5,"name":"Earle","category":"Carlick"},
+{"id":6,"name":"Alanna","category":"Mc Caghan"},
+{"id":7,"name":"Ewan","category":"Chinnick"},
+{"id":8,"name":"Taryn","category":"Gorton"},
+{"id":9,"name":"Retha","category":"Gilchrist"},
+{"id":10,"name":"Shirley","category":"Buche"},
+{"id":11,"name":"Helena","category":"Shaul"},
+{"id":12,"name":"Abran","category":"Maxstead"},
+{"id":13,"name":"Barret","category":"Clarke-Williams"},
+{"id":14,"name":"Jorie","category":"Mecchi"},
+{"id":15,"name":"Jackqueline","category":"Haddrell"},
+{"id":16,"name":"Morgan","category":"Huriche"},
+{"id":17,"name":"Consuelo","category":"Grime"},
+{"id":18,"name":"Seana","category":"McNabb"},
+{"id":19,"name":"Rabbi","category":"Skocroft"},
+{"id":20,"name":"Kaylil","category":"Dillamore"}
+]
+}
